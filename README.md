@@ -207,7 +207,3 @@ jupyter notebook notebooks/california_house_price_prediction_multimodel_comparis
 **Mohammad Nazmul Islam**
 
 Research interests: Machine Learning, Deep Learning, Computer Vision, Medical Imaging, Explainable AI
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
