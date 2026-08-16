@@ -168,9 +168,13 @@ california-house-price-prediction/
 ├── figures/
 
 ├── results/
+
 ├── data/
+
 ├── LICENSE
+
 ├── README.md
+
 └── requirements.txt
 
 ## Technologies used
